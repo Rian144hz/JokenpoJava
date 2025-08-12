@@ -11,8 +11,8 @@ Este é um app simples de **Jokenpo** (Pedra, Papel e Tesoura) feito em Java par
 
   
   ## 🖼️ Imagem do app
-<img src="https://github.com/Rian144hz/JokenpoJava/blob/main/img1_jkp_java.png.png?raw=true" width="300">
-<img src="https://github.com/Rian144hz/JokenpoJava/blob/main/img2_jkp_java.png.png?raw=true" width="300">
+<img src="https://github.com/Rian144hz/JokenpoJava/blob/main/img1_jkp_java.png?raw=true" width="300">
+<img src="https://github.com/Rian144hz/JokenpoJava/blob/main/img2_jkp_java.png?raw=true" width="300">
 
 
 ## 📲 Como usar
